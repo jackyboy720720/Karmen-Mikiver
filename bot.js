@@ -13,7 +13,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if (message.content === 'Karmen2') {
-    	message.reply('Sven, miks su munn niiiiii väike on!?');
+    	message.reply('Paul, miks su munn niiiiii väike on!?');
   	}
 });
 
